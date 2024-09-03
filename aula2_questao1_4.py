@@ -16,8 +16,7 @@ c=("E o valor e:")
 d=10
 e=3.5
 f=d+e
-print(c)
-print(f)
+print(c,f)
 print(type(c))
 print(type(f))
 
